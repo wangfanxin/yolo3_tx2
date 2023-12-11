@@ -1,5 +1,6 @@
 # yolo3_tx2
-light weight yolo3 tested on tx2
+
+
 
 1. config python as python 3.6.9
 sudo update-alternatives --config python3
@@ -24,6 +25,8 @@ python gpu_monitor.py
 
 ---------------------------------------------------------------------------
 YOLOV3
+
+
 6.yolov3 code:
 cd ~/Downloads/goodyolo
 read the readme.txt in foler
@@ -32,6 +35,14 @@ python main_debug.py
 
 6.5 install pyntcloud for xyz resolve
 pip install pyntcloud
+
+
+6.6 yolov3 example
+weights and config can be changed in subfolders
+package installation
+https://pypi.org/project/yolo34py/
+
+
 
 
 6.6 yolov3 example
